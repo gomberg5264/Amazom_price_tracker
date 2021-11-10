@@ -1,0 +1,2 @@
+Django==4.0b1
+Scrappy==0.3.0.alpha.4
